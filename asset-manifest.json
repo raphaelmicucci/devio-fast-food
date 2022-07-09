@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.af3429dd.js",
-    "static/media/product7.jpg": "/static/media/product7.e183c28447dc8c135f4c.jpg",
-    "static/media/product8.jpg": "/static/media/product8.063edae972176a5775e0.jpg",
-    "static/media/category1.jpg": "/static/media/category1.b43146a8ca0126f41c5f.jpg",
-    "static/media/product2.jpg": "/static/media/product2.b43146a8ca0126f41c5f.jpg",
-    "static/media/product4.jpg": "/static/media/product4.f908f882f07e4c27d012.jpg",
-    "static/media/category4.jpg": "/static/media/category4.39b8cb475151939c18de.jpg",
-    "static/media/category2.jpg": "/static/media/category2.b96a15b70cd992fdb33f.jpg",
-    "static/media/product1.jpg": "/static/media/product1.889cbe800b3f22fccd75.jpg",
-    "static/media/category3.jpg": "/static/media/category3.234ee444dd4003f88e43.jpg",
-    "static/media/product3.jpg": "/static/media/product3.4ef6f11197ab3204b239.jpg",
-    "static/media/product6.jpg": "/static/media/product6.8864edde032b41e13bda.jpg",
-    "static/media/product5.jpg": "/static/media/product5.a2713dcc2cd049f2c644.jpg",
-    "index.html": "/index.html",
-    "main.af3429dd.js.map": "/static/js/main.af3429dd.js.map"
+    "main.js": "/devio-fast-food/static/js/main.6de56b0f.js",
+    "static/media/product7.jpg": "/devio-fast-food/static/media/product7.e183c28447dc8c135f4c.jpg",
+    "static/media/product8.jpg": "/devio-fast-food/static/media/product8.063edae972176a5775e0.jpg",
+    "static/media/category1.jpg": "/devio-fast-food/static/media/category1.b43146a8ca0126f41c5f.jpg",
+    "static/media/product2.jpg": "/devio-fast-food/static/media/product2.b43146a8ca0126f41c5f.jpg",
+    "static/media/product4.jpg": "/devio-fast-food/static/media/product4.f908f882f07e4c27d012.jpg",
+    "static/media/category4.jpg": "/devio-fast-food/static/media/category4.39b8cb475151939c18de.jpg",
+    "static/media/category2.jpg": "/devio-fast-food/static/media/category2.b96a15b70cd992fdb33f.jpg",
+    "static/media/product1.jpg": "/devio-fast-food/static/media/product1.889cbe800b3f22fccd75.jpg",
+    "static/media/category3.jpg": "/devio-fast-food/static/media/category3.234ee444dd4003f88e43.jpg",
+    "static/media/product3.jpg": "/devio-fast-food/static/media/product3.4ef6f11197ab3204b239.jpg",
+    "static/media/product6.jpg": "/devio-fast-food/static/media/product6.8864edde032b41e13bda.jpg",
+    "static/media/product5.jpg": "/devio-fast-food/static/media/product5.a2713dcc2cd049f2c644.jpg",
+    "index.html": "/devio-fast-food/index.html",
+    "main.6de56b0f.js.map": "/devio-fast-food/static/js/main.6de56b0f.js.map"
   },
   "entrypoints": [
-    "static/js/main.af3429dd.js"
+    "static/js/main.6de56b0f.js"
   ]
 }
