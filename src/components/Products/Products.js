@@ -12,9 +12,9 @@ import {
   ProductButton,
 } from "./Products.elements";
 
-const Products = ({ heading, data, busca }) => {
+const Products = ({ heading, data, search }) => {
   const produtosFiltrados = data.filter((produto) =>
-    produto.name.toLowerCase().includes(busca.toLowerCase())
+    produto.name.toLowerCase().includes(search.toLowerCase())
   );
 
   return (
@@ -28,7 +28,12 @@ const Products = ({ heading, data, busca }) => {
               <ProductInfo>
                 <ProductTitle>{product.name}</ProductTitle>
                 <ProductDesc>{product.desc}</ProductDesc>
-                <ProductPrice>{product.price}</ProductPrice>
+                <ProductPrice>
+                  {new Intl.NumberFormat("pt-BR", {
+                    style: "currency",
+                    currency: "BRL",
+                  }).format(product.price)}
+                </ProductPrice>
                 <ProductButton>{product.button}</ProductButton>
               </ProductInfo>
             </ProductCard>

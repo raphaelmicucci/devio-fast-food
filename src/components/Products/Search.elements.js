@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const BuscaContainer = styled.div`
+export const SearchContainer = styled.div`
   width: 100vw;
   min-height: 10vh;
   padding: 1rem calc((100vw - 1300px) / 2);
@@ -9,7 +9,7 @@ export const BuscaContainer = styled.div`
   text-align: center;
 `;
 
-export const BuscaInput = styled.input`
+export const SearchInput = styled.input`
   width: 50vw;
   height: 50px;
   background: #eaf8ea;

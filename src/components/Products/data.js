@@ -18,7 +18,7 @@ export const productData = [
     alt: "Smash da casa",
     name: "Smash da casa",
     desc: "Hamburguer de fraldinha, queijo mussarela, alface, tomate, maionese caseira no pão de hamburguer",
-    price: "R$29,00",
+    price: 29,
     button: "Adicionar",
   },
   {
@@ -27,16 +27,16 @@ export const productData = [
     alt: "Quarteirão",
     name: "Quarteirão",
     desc: "Hamburguer de alcatra, mussarela, alface, tomate e maionese caseira no pão de hamburguer",
-    price: "R$25,00",
+    price: 25,
     button: "Adicionar",
   },
   {
     id: 3,
     img: product3,
-    alt: "Quarteiro Prime",
-    name: "Quarteiro Prime",
+    alt: "Big Prime Alcatra",
+    name: "Big Prime Alcatra",
     desc: "Hamburguer de alcatra, mussarela, alface, tomate e maionese caseira no pão de hamburguer",
-    price: "R$25,00",
+    price: 25,
     button: "Adicionar",
   },
   {
@@ -45,7 +45,7 @@ export const productData = [
     alt: "Batatas fritas",
     name: "Batatas fritas",
     desc: "Deliciosas batatas fritas da casa servidas com bacon e parmesão ralado",
-    price: "R$7,00",
+    price: 7,
     button: "Adicionar",
   },
   {
@@ -54,7 +54,7 @@ export const productData = [
     alt: "Pepsi Max",
     name: "Pepsi Max",
     desc: "Refrescante Pepsi Max",
-    price: "R$7,00",
+    price: 7,
     button: "Adicionar",
   },
   {
@@ -63,7 +63,7 @@ export const productData = [
     alt: "Cerveja",
     name: "Cerveja",
     desc: "600ml de cerveja saborosa",
-    price: "R$12,00",
+    price: 12,
     button: "Adicionar",
   },
   {
@@ -72,7 +72,7 @@ export const productData = [
     alt: "Cheesecake",
     name: "Cheesecake",
     desc: "Cheesecake de frutas vermelhas",
-    price: "R$18,00",
+    price: 18,
     button: "Adicionar",
   },
   {
@@ -81,7 +81,7 @@ export const productData = [
     alt: "Brownie",
     name: "Brownie",
     desc: "Brownie de chocolate",
-    price: "R$9,00",
+    price: 9,
     button: "Adicionar",
   },
 ];

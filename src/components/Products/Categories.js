@@ -9,10 +9,10 @@ import {
   CategoryTitle,
 } from "./Categories.elements";
 
-const Categories = ({ busca, heading, data }) => {
+const Categories = ({ search, heading, data }) => {
   return (
     <CategoriesContainer
-      style={busca === "" ? { display: "block" } : { display: "none" }}
+      style={search === "" ? { display: "block" } : { display: "none" }}
     >
       <CategoryHeading>{heading}</CategoryHeading>
       <CategoryWrapper>
